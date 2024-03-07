@@ -1,0 +1,5 @@
+1.kasir error
+2.user te tiasa di hapus edit srng te aya add
+3.role error
+4.transaksi error 
+
